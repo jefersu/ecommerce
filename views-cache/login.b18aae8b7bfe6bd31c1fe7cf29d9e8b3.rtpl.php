@@ -13,7 +13,7 @@
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="/res/admin//dist/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="/res/admin/dist/css/AdminLTE.min.css">
   <!-- iCheck -->
   <link rel="stylesheet" href="/res/admin/plugins/iCheck/square/blue.css">
 
@@ -68,7 +68,7 @@
     <!-- /.social-auth-links -->
 
     <a href="#">I forgot my password</a><br>
-    <a href="/res/admin/register.html" class="text-center">Register a new membership</a>
+    <a href="register.html" class="text-center">Register a new membership</a>
 
   </div>
   <!-- /.login-box-body -->
